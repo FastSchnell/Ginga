@@ -36,7 +36,7 @@ token: test_token
 运行Ginga `./ginga_linux_amd64 -c config.yaml`
 
 
-client
+Client
 ------
 
 Golang版        [Ginga-Client-Go](https://github.com/FastSchnell/Ginga-Client-Go)
