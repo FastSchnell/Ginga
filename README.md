@@ -2,7 +2,7 @@
 ==================
 
 Ginga是一个分布式锁。
-![image](ginga.jpeg)
+![image](ginga.jpg)
 
 下载
 ----
