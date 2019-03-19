@@ -39,7 +39,7 @@ token: test_token
 client
 ------
 
-Golang [Ginga-Client-Go](https://github.com/FastSchnell/Ginga-Client-Go)
+Golang版        [Ginga-Client-Go](https://github.com/FastSchnell/Ginga-Client-Go)
 
-Python [Ginga-Client-Py](https://github.com/FastSchnell/Ginga-Client-Py)
+Python版        [Ginga-Client-Py](https://github.com/FastSchnell/Ginga-Client-Py)
 
