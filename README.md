@@ -1,4 +1,4 @@
-# Ginga 巴西足球之魂
+Ginga 巴西足球之魂
 ==================
 
 Ginga是一个分布式锁。
@@ -16,7 +16,7 @@ mac
 ```
 wget googlebridge.com/ginga_mac
 chmod +x ginga_mac
-
+```
 
 启动服务
 -------
