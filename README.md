@@ -33,7 +33,7 @@ timeout: 60
 endpoint: 0.0.0.0:1903
 token: test_token
 ```
-运行Ginga `./ginga_linux_amd64 -c config.yaml`
+启动Ginga `./ginga_linux_amd64 -c config.yaml`
 
 
 Client
